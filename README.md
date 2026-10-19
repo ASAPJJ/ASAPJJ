@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Juan José 👋
 
-<!--
-**ASAPJJ/ASAPJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Licenciatura en Ciberdefensa** en la **FADENA (UNDEF)** y
+**Técnico Superior en Desarrollo de Software Multiplataforma**.
 
-Here are some ideas to get you started:
+## 🔭 Lo que estoy aprendiendo
+- **C y C++**: punteros, memoria, herencia y polimorfismo
+- **Java**: programación orientada a objetos
+- **Desarrollo web** con [The Odin Project](https://www.theodinproject.com/)
+- **Git y GitHub**, para ordenar y versionar mi trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-📂 Mis ejercicios: [Lenguajes de Programación](https://github.com/ASAPJJ/Lenguajes-de-Programacion)
+  
+## 🎯 Objetivos
+- Resolver problemas por mí mismo, entendiendo cada paso
+- Sumar prácticas de ciberdefensa a cada proyecto
+- Seguir subiendo lo que aprendo a este perfil
